@@ -1,6 +1,6 @@
 ![Adrian Skar](https://adrianskar.com/logos/adskar-negro.svg)
 
-Hi! I'm Adrian, an IT coordinator & sysadmin based in sierra norte de Madrid, Spain.
+Hi! I'm Adrian, an IT coordinator & sysadmin based in Madrid, Spain.
 Currently managing IT infrastructure for a municipality in Comunidad de Madrid.
 Background in web development and systems programming.
 
